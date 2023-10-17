@@ -3,7 +3,7 @@ import Food from './components/Food'
 import HeadlineCards from './components/HeadlineCards'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
-import Category from './components/category'
+import Category from './components/Category'
 
 
 
